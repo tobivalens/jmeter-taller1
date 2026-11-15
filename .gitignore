@@ -4,3 +4,8 @@ jmeter.log
 __pycache__/
 *.jtl
 reporte_*/
+evidencias/
+q10_*
+*.docx
+~*.tmp
+~$*

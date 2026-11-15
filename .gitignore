@@ -1,0 +1,6 @@
+resultados*.jtl
+reporte*/
+jmeter.log
+__pycache__/
+*.jtl
+reporte_*/
